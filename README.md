@@ -1,24 +1,23 @@
-# Video-chat-v1
+🎥 Real-Time Video Conferencing App
+It is a sleek and simple video chat app that makes it super easy to group up with people you want to meet and talk to — anytime, anywhere! 🌍👥💬
 
-Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
+🔗 Live Demo: Click here to try it out! 🚀
+📝 Read the article: How I built this app 💡
 
-![IMG](./video-chat.png)
+🔧 Tech Stack
+🟢 Node.js – Backend server
 
-Check out the live demo: https://video-chat-app-v1.herokuapp.com/
+🔁 Socket.io – Real-time communication
 
-An article I wrote which explains how I build this: https://bit.ly/3wh0gyR
+🎥 PeerJS (WebRTC) – Peer-to-peer video streaming
 
-This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
-
-## How to run the project?
-
-1. Clone this repository in your local system.
-2. Open the command prompt from your project directory and run the command `npm install`.
-3. Open the command prompt from your project directory and run the command `npm start`.
-4. Go to your browser and type `http://127.0.0.1:3030/` in the address bar.
-5. Hurray! That's it.
-
-### ToDo
-
-- [ ] - Recreate the Front-end with React.
-
+🛠️ How to Run This Project Locally
+📥 Clone the repository to your local machine:
+git clone https://github.com/your-username/video-chat-v1.git
+📦 Install dependencies:
+npm install
+🚀 Start the server:
+npm start
+🌐 Open your browser and go to:
+http://127.0.0.1:3030/
+🎉 Hurray! You're all set to video chat with friends!
